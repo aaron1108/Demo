@@ -1,0 +1,3 @@
+# 請將webdrive的路徑貼上在第3行，需包含webdrive的檔案名稱
+範例：C:\myfile\python-practice\chromedriver_win32\chromedriver.exe
+.\chromedriver_win32\chromedriver.exe
